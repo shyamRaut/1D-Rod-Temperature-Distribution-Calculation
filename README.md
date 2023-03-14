@@ -2,6 +2,7 @@
 This code numerically approximates the temperature in a rod using the heat conduction equation:
 
 heat equation
+
 ![heat equation](https://latex.codecogs.com/svg.latex?\frac{\partial%20U}{\partial%20t}%20=%20\alpha%20\frac{\partial^2%20U}{\partial%20x^2})
 
 
